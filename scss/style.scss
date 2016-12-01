@@ -1,0 +1,48 @@
+@import 'footer','variables', 'mixins', 'functions', 'header' ;
+
+span{
+	font-weight: 100;
+	color: #fff;
+}
+
+.una{
+	background: #fff;
+	padding:10em;;
+}
+.dos{
+	background: #23232e;
+	padding:10em;;
+}
+.tres{
+	background: #fff;
+	padding:10em;;
+}
+
+.title-2 {
+  text-align: center;
+  border-bottom: .08rem solid #e5e5e5;
+  
+}
+.title-3 {
+
+	color: #fff;
+	text-align: center;
+	border-bottom: .08rem solid #e5e5e5;
+  
+}
+.cajas{
+		width: 28.33333%;
+		height: 10em;
+		background: #7b77c9;
+		text-align: center;
+		margin: 1em;
+	border-bottom: .08rem solid #e5e5e5;
+	}
+
+	.title-4 {
+
+	color: #aaa;
+	text-align: center;
+	border-bottom: .08rem solid #e5e5e5;
+  
+}

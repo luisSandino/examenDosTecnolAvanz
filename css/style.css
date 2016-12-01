@@ -1,0 +1,94 @@
+.footer {
+  text-align: center; }
+
+.footer-top {
+  background-color: #23232e;
+  padding-top: 50px; }
+
+.footer-bottom {
+  background-color: #313454;
+  padding: 15px 0; }
+
+.footer h5 {
+  color: #fff; }
+
+.footer h5 {
+  margin-bottom: 20px; }
+
+.footer p {
+  color: rgba(255, 255, 255, 0.5); }
+
+.footer .footer-share li {
+  display: inline-block;
+  float: none; }
+
+.footer .footer-share a {
+  border-width: 5px;
+  color: #fff; }
+
+/* background of the header and footer*/
+.wrap {
+  background: #23232e; }
+
+/*Customize container */
+@media (min-width: 48em) {
+  .container {
+    max-width: 65rem; } }
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  color: #fff;
+  border-bottom: .08rem solid #e5e5e5;
+  background: #23232e !important; }
+
+img {
+  width: 4em;
+  height: 4em;
+  margin: 5em; }
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 48em) {
+  /* Remove the padding we set earlier */
+  .header,
+  .footer {
+    padding-right: 0;
+    padding-left: 0; } }
+span {
+  font-weight: 100;
+  color: #fff; }
+
+.una {
+  background: #fff;
+  padding: 10em; }
+
+.dos {
+  background: #23232e;
+  padding: 10em; }
+
+.tres {
+  background: #fff;
+  padding: 10em; }
+
+.title-2 {
+  text-align: center;
+  border-bottom: .08rem solid #e5e5e5; }
+
+.title-3 {
+  color: #fff;
+  text-align: center;
+  border-bottom: .08rem solid #e5e5e5; }
+
+.cajas {
+  width: 28.33333%;
+  height: 10em;
+  background: #7b77c9;
+  text-align: center;
+  margin: 1em;
+  border-bottom: .08rem solid #e5e5e5; }
+
+.title-4 {
+  color: #aaa;
+  text-align: center;
+  border-bottom: .08rem solid #e5e5e5; }
+
+/*# sourceMappingURL=style.css.map */

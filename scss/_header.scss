@@ -1,0 +1,40 @@
+
+/* background of the header and footer*/
+
+.wrap{
+  background: #23232e;
+}
+
+
+
+/*Customize container */
+@media (min-width: 48em) {
+  .container {
+    max-width: 65rem;
+  }
+}
+
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  color: #fff;
+  border-bottom: .08rem solid #e5e5e5;
+  background: #23232e !important;
+}
+img{
+  width: 4em;
+  height: 4em;
+  margin: 5em;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 48em) {
+  /* Remove the padding we set earlier */
+  .header,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+  
